@@ -1,0 +1,7 @@
+F:\C#\example.0\example.0\bin\Debug\example.0.exe.config
+F:\C#\example.0\example.0\bin\Debug\example.0.exe
+F:\C#\example.0\example.0\bin\Debug\example.0.pdb
+F:\C#\example.0\example.0\obj\Debug\example.0.csproj.AssemblyReference.cache
+F:\C#\example.0\example.0\obj\Debug\example.0.csproj.CoreCompileInputs.cache
+F:\C#\example.0\example.0\obj\Debug\example.0.exe
+F:\C#\example.0\example.0\obj\Debug\example.0.pdb
